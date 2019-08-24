@@ -1,0 +1,7 @@
+C:\Users\Любовь\Desktop\Lesson\MailSender\ThreadTestApp\bin\Release\ThreadTestApp.exe.config
+C:\Users\Любовь\Desktop\Lesson\MailSender\ThreadTestApp\bin\Release\ThreadTestApp.exe
+C:\Users\Любовь\Desktop\Lesson\MailSender\ThreadTestApp\bin\Release\ThreadTestApp.pdb
+C:\Users\Любовь\Desktop\Lesson\MailSender\ThreadTestApp\obj\Release\ThreadTestApp.csprojAssemblyReference.cache
+C:\Users\Любовь\Desktop\Lesson\MailSender\ThreadTestApp\obj\Release\ThreadTestApp.csproj.CoreCompileInputs.cache
+C:\Users\Любовь\Desktop\Lesson\MailSender\ThreadTestApp\obj\Release\ThreadTestApp.exe
+C:\Users\Любовь\Desktop\Lesson\MailSender\ThreadTestApp\obj\Release\ThreadTestApp.pdb
